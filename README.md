@@ -1,3 +1,4 @@
+![alt text](https://github.com/ManthanK-24/Angular_TS_HTML_Communication/blob/main/angulartask-1.png?raw=true)
 # AngularPractice
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.0.
