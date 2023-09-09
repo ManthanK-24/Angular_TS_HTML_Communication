@@ -1,7 +1,7 @@
 <div class="f-container">
     <div class="f-item">
         <input [(ngModel)]="textInputData" type="text" placeholder="Enter text">
-        <button (click)="onSubmit()">Show</button>
+<!--         <button (click)="onSubmit()">Show</button> -->
         <select [(ngModel)]="selectedName" placeholder="Select">
             <option *ngFor="let section of data" [value]="section.name">{{ section.name }}</option>
         </select>
@@ -17,7 +17,7 @@
                 </ul>
             </div>
             <div class="allitems" *ngIf="textInputData != 'Links' && textInputData!='Guides' && textInputData!='Projects'">
-                <h5 *ngIf="selectedName!=textInputData">{{section.name}}</h5>
+                <h5 >{{section.name}}</h5>
                 <ul class="list-unstyled" *ngFor="let item of section.items">
                     <li class="mb-2">{{item}}</li>
                 </ul>
