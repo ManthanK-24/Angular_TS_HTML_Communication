@@ -1,11 +1,11 @@
 
-![alt text](https://github.com/ManthanK-24/Angular_TS_HTML_Communication/blob/main/angulartask-1.png?raw=true)
 # AngularPractice
-
-[Important Link for angular and node version compatibility](https://medium.com/linkit-intecs/how-to-update-node-js-and-npm-42b8bf3cabe6)
-## Version Compatibility
+![alt text](https://github.com/ManthanK-24/Angular_TS_HTML_Communication/blob/main/angulartask-1.png?raw=true)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.0.
+
+## Version Compatibility
+[Important Link for angular and node version compatibility](https://medium.com/linkit-intecs/how-to-update-node-js-and-npm-42b8bf3cabe6)
 
 ## Development server
 
